@@ -1,0 +1,1 @@
+# LoRa-Mapper-SD-card-version
